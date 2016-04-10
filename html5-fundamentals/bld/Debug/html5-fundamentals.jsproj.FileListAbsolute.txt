@@ -1,0 +1,16 @@
+c:\users\felipe\documents\visual studio 2015\Projects\html5-fundamentals\html5-fundamentals\bin\Debug\ReverseMap\resources.pri
+c:\users\felipe\documents\visual studio 2015\Projects\html5-fundamentals\html5-fundamentals\bin\Debug\AppxManifest.xml
+c:\users\felipe\documents\visual studio 2015\Projects\html5-fundamentals\html5-fundamentals\bin\Debug\html5-fundamentals.build.appxrecipe
+c:\users\felipe\documents\visual studio 2015\Projects\html5-fundamentals\html5-fundamentals\bld\Debug\ResourceHandlingTask.state
+c:\users\felipe\documents\visual studio 2015\Projects\html5-fundamentals\html5-fundamentals\bld\Debug\priconfig.xml
+c:\users\felipe\documents\visual studio 2015\Projects\html5-fundamentals\html5-fundamentals\bld\Debug\priconfig.xml.intermediate
+c:\users\felipe\documents\visual studio 2015\Projects\html5-fundamentals\html5-fundamentals\bld\Debug\layout.resfiles
+c:\users\felipe\documents\visual studio 2015\Projects\html5-fundamentals\html5-fundamentals\bld\Debug\layout.resfiles.intermediate
+c:\users\felipe\documents\visual studio 2015\Projects\html5-fundamentals\html5-fundamentals\bld\Debug\resources.resfiles
+c:\users\felipe\documents\visual studio 2015\Projects\html5-fundamentals\html5-fundamentals\bld\Debug\resources.resfiles.intermediate
+c:\users\felipe\documents\visual studio 2015\Projects\html5-fundamentals\html5-fundamentals\bld\Debug\pri.resfiles
+c:\users\felipe\documents\visual studio 2015\Projects\html5-fundamentals\html5-fundamentals\bld\Debug\pri.resfiles.intermediate
+c:\users\felipe\documents\visual studio 2015\Projects\html5-fundamentals\html5-fundamentals\bld\Debug\qualifiers.txt
+c:\users\felipe\documents\visual studio 2015\Projects\html5-fundamentals\html5-fundamentals\bld\Debug\qualifiers.txt.intermediate
+c:\users\felipe\documents\visual studio 2015\Projects\html5-fundamentals\html5-fundamentals\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\felipe\documents\visual studio 2015\Projects\html5-fundamentals\html5-fundamentals\bld\Debug\ProjectArchitectures.txt

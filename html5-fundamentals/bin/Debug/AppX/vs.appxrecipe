@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ZEUS</Machine>
+    <WindowsUser>felipe</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>6575acfe-dc78-4605-a6f6-91373cb0f030</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\felipe\documents\visual studio 2015\Projects\html5-fundamentals\html5-fundamentals\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>AFF79DDE80AA9E441D7396A95F23FFCA703F87D2DF7FF5484E59D99990FA85E4</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>6575acfe-dc78-4605-a6f6-91373cb0f030_1.0.0.0_neutral__5dd7jr6x8dp1j</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>6575acfe-dc78-4605-a6f6-91373cb0f030_5dd7jr6x8dp1j!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>6575acfe-dc78-4605-a6f6-91373cb0f030</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=felipe</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\felipe\documents\visual studio 2015\Projects\html5-fundamentals\html5-fundamentals\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-04-10T15:35:22.273</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\felipe\documents\visual studio 2015\Projects\html5-fundamentals\html5-fundamentals\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2016-04-10T15:33:47.932</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\felipe\documents\visual studio 2015\Projects\html5-fundamentals\html5-fundamentals\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2015-10-10T23:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\felipe\documents\visual studio 2015\Projects\html5-fundamentals\html5-fundamentals\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-10T23:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\felipe\documents\visual studio 2015\Projects\html5-fundamentals\html5-fundamentals\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-10T23:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\felipe\documents\visual studio 2015\Projects\html5-fundamentals\html5-fundamentals\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-10T23:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\felipe\documents\visual studio 2015\Projects\html5-fundamentals\html5-fundamentals\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-10T23:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\felipe\documents\visual studio 2015\Projects\html5-fundamentals\html5-fundamentals\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-10T23:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\felipe\documents\visual studio 2015\Projects\html5-fundamentals\html5-fundamentals\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-10T23:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\felipe\documents\visual studio 2015\Projects\html5-fundamentals\html5-fundamentals\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2015-09-20T18:22:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\felipe\documents\visual studio 2015\Projects\html5-fundamentals\html5-fundamentals\WinJS\js\en-US\ui.strings.js">
+      <PackagePath>WinJS\js\en-US\ui.strings.js</PackagePath>
+      <Modified>2015-10-10T23:09:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\felipe\documents\visual studio 2015\Projects\html5-fundamentals\html5-fundamentals\WinJS\js\base.js">
+      <PackagePath>WinJS\js\base.js</PackagePath>
+      <Modified>2015-10-10T23:09:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\felipe\documents\visual studio 2015\Projects\html5-fundamentals\html5-fundamentals\WinJS\js\ui.js">
+      <PackagePath>WinJS\js\ui.js</PackagePath>
+      <Modified>2015-10-10T23:09:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\felipe\documents\visual studio 2015\Projects\html5-fundamentals\html5-fundamentals\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2015-10-10T23:09:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\felipe\documents\visual studio 2015\Projects\html5-fundamentals\html5-fundamentals\WinJS\css\ui-dark.css">
+      <PackagePath>WinJS\css\ui-dark.css</PackagePath>
+      <Modified>2015-10-10T23:09:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\felipe\documents\visual studio 2015\Projects\html5-fundamentals\html5-fundamentals\WinJS\css\ui-light.css">
+      <PackagePath>WinJS\css\ui-light.css</PackagePath>
+      <Modified>2015-10-10T23:09:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\felipe\documents\visual studio 2015\Projects\html5-fundamentals\html5-fundamentals\WinJS\fonts\Symbols.ttf">
+      <PackagePath>WinJS\fonts\Symbols.ttf</PackagePath>
+      <Modified>2015-10-10T23:09:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\felipe\documents\visual studio 2015\Projects\html5-fundamentals\html5-fundamentals\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-04-10T15:35:22.147</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
